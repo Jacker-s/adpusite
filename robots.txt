@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://brpromos.online/sitemap.xml
+Sitemap: https://adsurge.shop/sitemap.xml
+
