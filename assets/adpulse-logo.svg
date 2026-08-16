@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="AdPulse">
+  <defs>
+    <linearGradient id="g1" x1="18" y1="110" x2="108" y2="18" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4285F4"/>
+      <stop offset=".48" stop-color="#6D5DF6"/>
+      <stop offset="1" stop-color="#34A853"/>
+    </linearGradient>
+    <linearGradient id="g2" x1="30" y1="98" x2="98" y2="30" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FBBC04"/>
+      <stop offset="1" stop-color="#EA4335"/>
+    </linearGradient>
+    <filter id="s" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="10" stdDeviation="10" flood-color="#35226B" flood-opacity=".18"/>
+    </filter>
+  </defs>
+  <rect x="12" y="12" width="104" height="104" rx="28" fill="#fff" filter="url(#s)"/>
+  <path d="M30 78c17-28 32-41 56-52" fill="none" stroke="url(#g2)" stroke-width="9" stroke-linecap="round"/>
+  <path d="M28 82c20-32 39-47 72-60" fill="none" stroke="url(#g1)" stroke-width="14" stroke-linecap="round"/>
+  <path d="M97 20v31H66z" fill="#34A853"/>
+  <path d="M34 82h10v20H34zM52 67h10v35H52zM70 54h10v48H70zM88 42h10v60H88z" fill="#34A853" opacity=".9"/>
+  <path d="M25 62h18l11-18 13 34 14-45 13 29h10" fill="none" stroke="#4285F4" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
